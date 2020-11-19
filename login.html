@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="login.css">
+    <title>Login</title>
+    
+    <script type="text/javascript">
+        function validateForm() {
+            var email = document.forms["regForm"]["email"];
+            if(email.value=="") {
+                alert("Please input your email address");
+                email.focus();
+                return false;
+            }
+            var name = document.forms["regForm"]["password"];
+            if(name.value=="") {
+                alert("Please input your password");
+                name.focus();
+                return false;
+            }
+        }
+        </script>
+</head>
+<body>
+    
+    
+    <div class="wrapper">
+
+        <div class="wrapper1">
+
+        <div class="Register">
+            <div class="logo">
+                <img src="images/logo.png" alt="" height="250px" width="250px">
+            </div>
+
+        <h2>Login Account</h2>
+    </div>
+
+    <form method="post" name="regForm" onsubmit="return validateForm()">
+        <div class="form2">
+ 
+                <input type="text" placeholder="Email ID" name="email" id="email" required>
+               <br>
+                <input type="text" placeholder="Password"name="password" id="password" required>
+        </div>
+    </form>
+
+    <div class="container"> 
+        <div class="checkbox">
+           <input type="checkbox" checked id="checkbox" name="" value="">
+           <label for="checkbox"><span>Keep me signed in</span></label>
+        </div>
+
+        <button class="btn"> <a href="admin.html">Login</a></button>
+    
+        <div class="T">
+            <button> <a href="Register.html"> Register Here</a></button> <p>Not a member?</p>
+        </div> 
+    </div>
+</div>
+
+</body>
+</html>

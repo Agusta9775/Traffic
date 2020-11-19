@@ -1,0 +1,45 @@
+[1106/111452.214:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/111457.339:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/111502.260:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/111506.231:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/111510.441:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/113940.699:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/114947.241:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/122614.019:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/163512.625:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/163512.883:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/163518.201:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/163522.998:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/163526.561:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1106/163529.791:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/060222.165:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/061222.167:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/061222.183:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\DELL\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\b7b6f824-22db-48c7-8579-b3d6d38fdfcb: The system cannot find the path specified. (0x3)
+[1110/061222.183:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1110/061222.183:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/061222.183:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/061722.165:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/063222.190:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/064722.193:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/070051.734:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/070222.194:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/071722.198:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/071733.623:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/071750.267:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/072750.294:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/072750.294:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1110/072750.294:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/072750.294:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/073250.270:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/074750.272:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/103906.116:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/104256.309:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/105406.117:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/110906.117:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1110/112403.071:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1115/053045.991:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1116/153825.064:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1116/153831.590:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1116/154013.126:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1118/111732.987:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1118/111757.890:ERROR:crash_report_database_win.cc(457)] unexpected header

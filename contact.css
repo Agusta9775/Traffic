@@ -1,0 +1,132 @@
+@import url('desktop/Poppins/Poppins-Bold');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-size: cover;
+}
+.logo{
+    position: absolute;
+    background-blend-mode: multiply;
+    margin-top: -60px;
+    margin-left: 40px;
+}
+.nav-bar{
+    display: flex;
+    padding: 50px;
+}
+.nav-ul{
+    list-style-type: none;
+    padding: 0px;
+    margin-left: 800px;
+    overflow: hidden;
+}
+.nav-ul li{
+    display: inline;
+    margin: 15px;
+}
+.nav-ul li a{
+    text-decoration: none;
+    font-family: 'Poppins-Bold';
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    color: #e46299;
+}
+.Register{
+    padding: 10px;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.Register h2{
+    font-family: 'Radley';
+    font-style: normal;
+    font-weight:400;
+    font-size: 45px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.Register p{
+    font-family: 'Radley';
+    font-style: normal;
+    font-weight:400;
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.form2{
+    margin-top: 15px;
+}
+.form2 label{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    display: block;
+    color: black;
+    margin-left: 50px;
+}
+.form2 input{
+    width: 500px;
+    outline: none;
+    font-size: 18px;
+    background: #F2E1E8;
+    color: black;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.T{
+    margin-left: 50px;
+}
+.T p{
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    color: black;
+}
+.mail{
+    margin-top: 15px;
+    margin-left: 50px;
+    padding: 5px;
+}
+.mail h3{
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: 0em;
+}
+.mail h5{
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+.map{
+    margin-top: -650px;
+    margin-left: 1050px;
+}
+.map p{
+    font-family: Radley;
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0em;
+text-align: center;
+margin-right: 70px;
+margin-bottom: 50px;
+}
+.car{
+    margin-left: 983px;
+    margin-top: -210px;
+}

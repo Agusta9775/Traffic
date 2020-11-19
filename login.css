@@ -1,0 +1,142 @@
+
+.wrapper{
+    background-image: url(images/background2.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.wrapper1{
+    margin-left: 950px;
+}
+.Register{
+    padding: 15px;
+    margin-top: -5px;
+}
+.logo{
+    margin-left: -70px
+}
+.Register h2{
+    font-family: 'Poppins-Bold';
+    color: #e46299;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 120px;
+}
+.form2{
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.form2 input{
+    width: 500px;
+    outline: none;
+    font-size: 18px;
+    background: #F2E1E8;
+    color: black;
+    padding: 5px 10px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.container {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.checkbox {
+    width: 100%;
+    margin: 15px auto;
+    position: relative;
+    display: block;
+}
+.checkbox input[type="checkbox"] {
+    width: auto;
+    opacity: 0.00000001;
+    position: absolute;
+    left: 0;
+    margin-left: -20px;
+}
+.checkbox label {
+    position: relative;
+}
+.checkbox label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 4px;
+    width: 22px;
+    height: 22px;
+    transition: transform 0.28s ease;
+    border-radius: 3px;
+    border: 2px solid #e46299;
+}
+.checkbox label:after {
+  content: '';
+    display: block;
+    width: 10px;
+    height: 5px;
+    border-bottom: 2px solid #e46299;
+    border-left: 2px solid #e46299;
+    -webkit-transform: rotate(-45deg) scale(0);
+    transform: rotate(-45deg) scale(0);
+    transition: transform ease 0.25s;
+    will-change: transform;
+    position: absolute;
+    top: 12px;
+    left: 10px;
+}
+.checkbox input[type="checkbox"]:checked ~ label::before {
+    color: #e46299;
+}
+.checkbox input[type="checkbox"]:checked ~ label::after {
+    -webkit-transform: rotate(-45deg) scale(1);
+    transform: rotate(-45deg) scale(1);
+}
+.checkbox label {
+    min-height: 34px;
+    display: block;
+    padding-left: 40px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer;
+}
+.checkbox label span {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.checkbox input[type="checkbox"]:focus + label::before {
+    outline: 0;
+}
+.T{
+    margin-left: 150px;
+}
+.T p{
+    font-size: 18px;
+    font-family: 'poppins-light';
+    color: #e46299;
+    font-style: italic;
+    margin-top: -30px;
+}
+.T button{
+    margin-left: 135px;
+    width: 70px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    background: #e46299;
+}
+.btn{
+    font-family: 'poppins-bold';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    width: 250px;
+    letter-spacing: 0em;
+    background: #e46299;
+    border-radius: 60px;
+    margin-left: 150px;
+    margin-top: 40px;
+    color: white;
+}
